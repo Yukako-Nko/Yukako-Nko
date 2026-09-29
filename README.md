@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-horned.jpeg" width="100%" alt="YukakooNeko">
+<img src="./assets/hero-horned.jpeg" width="90%" alt="YukakooNeko">
 
 # `YukakooNeko` 🐈‍⬛
 
@@ -33,13 +33,13 @@ I enjoy building things around **JavaScript / Node.js**, exploring **OSINT**, wo
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  YUKAKOONEKO // DIGITAL WORKSPACE                            │
+│  YUKAKOONEKO // DIGITAL WORKSPACE                                       │
 ├──────────────────────────────────────────────────────────────┤
-│  Focus       : Web • Automation • OSINT • Backend            │
-│  Runtime     : Node.js                                       │
-│  Data        : Firebase • Supabase                            │
-│  Frontend    : HTML • CSS • JavaScript                       │
-│  Philosophy  : Learn → Build → Break → Fix → Repeat          │
+│  Focus       : Web • Automation • OSINT • Backend                       │
+│  Runtime     : Node.js                                                  │
+│  Data        : Firebase • Supabase                                      │
+│  Frontend    : HTML • CSS • JavaScript                                  │
+│  Philosophy  : Learn → Build → Break → Fix → Repeat                  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -140,7 +140,7 @@ Responsive interfaces, dashboards, backend services, and database-connected proj
 ---
 
 ## `06` — GITHUB SIGNAL
-
+<!--
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yukako-Nko&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ff334f&ring_color=ff334f" height="180" alt="GitHub stats">
@@ -150,7 +150,7 @@ Responsive interfaces, dashboards, backend services, and database-connected proj
 </div>
 
 <br>
-
+-->
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Yukako-Nko&theme=dark&hide_border=true&background=0D0D0D&ring=FF334F&fire=FF334F&currStreakLabel=FFFFFF" width="90%" alt="GitHub streak">
@@ -158,13 +158,13 @@ Responsive interfaces, dashboards, backend services, and database-connected proj
 </div>
 
 <br>
-
+<!--
 <div align="center">
-
+.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukako-Nko&bg_color=0d0d0d&color=aaaaaa&line=ff334f&point=ffffff&area=true&hide_border=true" width="96%" alt="GitHub activity graph">
-
+.
 </div>
-
+-->
 ---
 
 ## `07` — CURRENT MODE
