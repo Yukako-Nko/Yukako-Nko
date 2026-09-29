@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-horned.jpeg" width="90%" alt="YukakooNeko">
+<img src="./assets/prana-system-error.gif" width="85%" alt="YukakooNeko">
 
 # `YukakooNeko` 🐈‍⬛
 
@@ -216,7 +216,7 @@ MODE   : CREATE
 
 <div align="center">
 
-<img src="./assets/crows.jpeg" width="100%" alt="Crows footer visual">
+<img src="./assets/crows.jpeg" width="0%" alt="Crows footer visual">
 
 ### `YukakooNeko`
 
